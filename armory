@@ -4050,4 +4050,4 @@ while _p <= #_src do
 end
 local _final = table.concat(_dec)
 local _fn = loadstring(_final)
-if _fn then _fn() endwd
+if _fn then _fn() end
